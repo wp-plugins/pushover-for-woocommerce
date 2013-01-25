@@ -1,0 +1,5 @@
+*** WooCommerce Pushover Integration ***
+
+2013.01.18   1.0.0
+ 
+   * First Version
