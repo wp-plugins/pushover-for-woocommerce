@@ -8,22 +8,23 @@ Stable tag: 3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Pushover for WooCommerce integrates WooCommerce with the Pushover notifications app for Android and iOS.  After installation and setup automatic notifications can be sent to your device for new orders, low stock, backorder and out of stock notifications. 
+Pushover for WooCommerce integrates WooCommerce with the Pushover notifications app for Android and iOS.  
 
 == Description ==
 
-Pushover for WooCommerce integrates WooCommerce with the Pushover notifications app for Android and iOS.  After installation and setup automatic notifications can be sent to your device for new orders, low stock, backorder and out of stock notifications.
+Pushover for WooCommerce integrates WooCommerce with the Pushover notifications app for Android and iOS.  
+After installation and setup automatic notifications can be sent to your device for new orders, low stock, backorder and out of stock notifications.
 
 == Installation ==
+
+Step 1. Install the extension
 
  * Login to your WordPress dashboard. Click on Plugins | Add New from the left hand menu
  * Click on the "Upload" option, then click "Browse" to select the zip file from your computer.
  * After the zip file has been selected press the "Install Now" button.
  * On the Plugins page, find the row for the "Pushover for WooCommerce" plugin and press "Activate"
- * Complete setup below
- 
 
-== Setup Pushover Account == 
+Step 2. Setup Pushover Account
 
 Prerequisites:
  * To receive notifications you will need to purchase the Pushover App for Android (http://pushover.net/clients/android)or iOS (http://pushover.net/clients/ios)
@@ -46,7 +47,7 @@ Prerequisites:
 
 3. Optional:  Login to your device and add a name for it.
 
-== Setup WooCommerce Pushover ==
+Step 3. Setup WooCommerce Pushover Integration
 
  1.  Login to your WordPress site
  2.  Go to WooComerce > Settings and click on the Integration tab
@@ -59,7 +60,7 @@ Prerequisites:
  9.  Optionally press "Send Test Notification" to test your settings
  10. Press "Save changes"
 
-== Frequently asked questions ==
+== Frequently Asked Questions ==
 
 
 
@@ -84,5 +85,4 @@ A.  Notifications are limited to 512 characters, including a title.  URL's are l
 
 
 
-== Arbitrary section 1 ==
 
