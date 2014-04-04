@@ -1,7 +1,6 @@
 Pushover for WooCommerce
 ========================
 
-
 Pushover for WooCommerce integrates WooCommerce with the Pushover notifications app for Android and iOS.  
 
 == Description ==
@@ -70,18 +69,9 @@ A.  Notifications are limited to 512 characters, including a title.  URL's are l
 
 == Changelog ==
 
-2013.11.21   1.0.4
-   * Added notification when an order totals $0.
-
-2013.10.19   1.0.3
-   * Updated branding and links
-
-2013.08.29   1.0.2
-   * Fixed low and no stock notifications hook.
-   * Fixed currency symbol - now sending symbol for WooCommerce base currency
-
-2013.02.06   1.0.1
-    * Fixed fatal error from undefined is_woocommerce_active() function call
+2013.02.07	 1.0.1
+	* Fixed fatal error from undefined is_woocommerce_active() function call
 
 2013.01.18   1.0.0
-    * First Version
+	* First Version
+
