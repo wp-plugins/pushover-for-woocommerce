@@ -23,7 +23,7 @@ Follow this plugin on [GitHub](https://github.com/shopplugins/pushover-for-wooco
 
 Here is a video of installation
 
-[youtube http://youtu.be/eVOi8cZxU8I]
+[youtube http://www.youtube.com/watch?v=eVOi8cZxU8I]
 
 Step 1. Install the extension
 
